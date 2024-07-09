@@ -1,2 +1,2 @@
 # Reader
-Region-Native Visual Tokenization
+This is the official implementation of our paper: Region-Native Visual Tokenization [ECCV2023].
